@@ -6,5 +6,6 @@ Yellow
 Green
 Blue
 Violet
+Purple
 
 The Colors of the rainbow
