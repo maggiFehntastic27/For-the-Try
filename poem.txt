@@ -9,6 +9,7 @@ Blue
 Violet
 Purple
 Recycle
+Bin
 
 The Colors of the rainbow
 And the Unicorn
